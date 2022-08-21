@@ -9,9 +9,28 @@ Please feel free to send me [pull requests](https://github.com/y12uc231/awesome-
 ## Table of Contents
 
  - [Awesome Lists](#awesome-lists)
- - [Books](#books)
+ - [Papers](#papers)
+ - [Courses](#courses)
  
  
- ## Awesome Lists
- 
- - [Awesome Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+## Awesome Lists
+
+- [Awesome Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+
+## Papers
+
+### Post Hoc Explanations
+- ["Towards a rigorous science of interpretable machine learning." Doshi-Velez, Finale, and Been Kim](https://arxiv.org/pdf/1702.08608.pdf)
+- [The Mythos of Model Interpretability by Lipton](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
+- 
+
+### Interpretability 
+- []
+
+## Courses
+
+- [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/)
+
+
+
+
