@@ -4,7 +4,7 @@ A curated list of awesome explainable AI resources, inspired by [awesome-php](ht
 
 
 ## Contributing
-Please feel free to send me [pull requests]([https://github.com/y12uc231/awesome-post-hoc-explanation-papers/pulls](https://github.com/y12uc231/awesome-explainable-interpretable-ml-papers/pulls) or email (skrishna@g.harvard.edu) to add links.
+Please feel free to send me [pull requests]([https://github.com/y12uc231/awesome-post-hoc-explanation-papers/pulls](https://github.com/y12uc231/awesome-explainable-interpretable-ml-papers/pulls) or email (satyaprk@alumni.cmu.edu) to add links.
 
 ## Table of Contents
 
