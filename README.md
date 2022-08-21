@@ -27,12 +27,17 @@ Please feel free to send me [pull requests](https://github.com/y12uc231/awesome-
 - [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
 - [Anchors: High-precision model-agnostic explanations]() 
 - [Human evaluation of models built for interpretability](https://ojs.aaai.org/index.php/HCOMP/article/view/5280)
+- [The Disagreement Problem in Explainable Machine Learning: A Practitioner's Perspective](https://arxiv.org/pdf/2202.01602.pdf)
+- [OpenXAI: Towards a Transparent Evaluation of Model Explanations](https://arxiv.org/abs/2206.11104)
 
 ### Interpretability 
 - [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9122117/)
 - [All Models are Wrong, but Many are Useful: Learning a Variable's Importance by Studying an Entire Class of Prediction Models Simultaneously](https://www.jmlr.org/papers/volume20/18-760/18-760.pdf?ref=https://githubhelp.com)
 - [Interpretable classifiers using rules and bayesian analysis: Building a better stroke prediction model](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mezKJyoAAAAJ&citation_for_view=mezKJyoAAAAJ:pqnbT2bcN3wC)
 - [This looks like that: deep learning for interpretable image recognition](https://proceedings.neurips.cc/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf)
+- [Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission](https://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)
+- [Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://arxiv.org/pdf/1710.04806.pdf)
+- 
 
 ## Courses
 
