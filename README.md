@@ -16,6 +16,7 @@ Please feel free to send me [pull requests]([https://github.com/y12uc231/awesome
 ## Awesome Lists
 
 - [Awesome Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+- [Awesome Explainable and Interpretable AI](https://github.com/altamiracorp/awesome-xai)
 
 ## Papers
 
